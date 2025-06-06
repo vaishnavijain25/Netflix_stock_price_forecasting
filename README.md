@@ -1,5 +1,5 @@
 
-# Netflix Stock Price Forecasting using ARIMA 
+# Netflix Stock Price Forecasting  
 
 ---
 
