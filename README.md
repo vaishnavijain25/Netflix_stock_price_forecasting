@@ -1,7 +1,7 @@
 
 # Netflix Stock Price Forecasting  
 
----
+
 
 ## Project Structure
 
@@ -12,7 +12,7 @@ Netflix_stock_price_forecasting/
 ├── README.md                               
 ```
 
----
+
 
 ## Tools & Libraries
 
@@ -21,7 +21,7 @@ Netflix_stock_price_forecasting/
 - matplotlib  
 - statsmodels  
 
----
+
 
 ## Model Used
 
